@@ -8,6 +8,7 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 3. Add one or two lines here with a random text:
 Hello how are you? Great to see you.
 This file is edited to understand pull request
+Adding this line to see whether it's reflects in the pull request.
    __...__
 
 5. Modify the following line by removing the letters that do not belong:
